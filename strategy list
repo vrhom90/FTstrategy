@@ -1,0 +1,3 @@
+source .env/bin/activate
+
+ReinforcedSmoothScalp ASDTSRockwellTrading MACDStrategy_crossed
